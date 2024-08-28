@@ -43,7 +43,7 @@ The backend is the core of the AI-PORTAL, built using a range of advanced techno
 ### Screenshots:
 
 <p align="center">
-  <img src="https://i.ibb.co/nbp0PwW/sss.png" alt="Screenshot 1" width="400" height="400"/>
+  <img src="https://i.ibb.co/nbp0PwW/sss.png" alt="Screenshot 1" width="600" height="400"/>
  
 
 </p>
