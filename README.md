@@ -11,7 +11,7 @@ The frontend of the AI-PORTAL is developed using **Flutter**, a cross-platform f
 
 ### Screenshots:
 
-![Screenshot 1]([Screenshot_20240727-123355.png](https://github.com/om595902/AI-PORTAL/blob/4c68e91dc7ffcbeced0164a4c1650cadf992af96/Screenshot_20240727-123355.png)) ![Screenshot 2](Screenshot_20240727-123355.png) ![Screenshot 3](Screenshot_20240727-123355.png)
+![Screenshot 1](https://github.com/om595902/AI-PORTAL/blob/4c68e91dc7ffcbeced0164a4c1650cadf992af96/Screenshot_20240727-123355.png)) ![Screenshot 2](Screenshot_20240727-123355.png) ![Screenshot 3](Screenshot_20240727-123355.png)
 
 
 ### Components:
