@@ -17,6 +17,9 @@ The frontend of the AI-PORTAL is developed using **Flutter**, a cross-platform f
   <img src="https://github.com/om595902/AI-PORTAL/raw/4c68e91dc7ffcbeced0164a4c1650cadf992af96/Screenshot_20240727-123456.png" alt="Screenshot 1" width="200" height="350"/>
   <img src="https://github.com/om595902/AI-PORTAL/raw/4c68e91dc7ffcbeced0164a4c1650cadf992af96/Screenshot_20240727-123521.png" alt="Screenshot 1" width="200" height="350"/>
   <img src="https://github.com/om595902/AI-PORTAL/raw/4c68e91dc7ffcbeced0164a4c1650cadf992af96/Screenshot_20240727-123541.png" alt="Screenshot 1" width="200" height="350"/>
+  <img src="https://i.ibb.co/t29zd1H/Screenshot-20240828-214838.png" alt="Screenshot 1" width="200" height="350"/>
+  <img src="https://i.ibb.co/5rfbCC2/Screenshot-20240828-220042.png" alt="Screenshot 1" width="200" height="350"/>
+  <img src="https://i.ibb.co/1nnZpfp/Screenshot-20240828-220604.png" alt="Screenshot 1" width="200" height="350"/>
 
 </p>
 
