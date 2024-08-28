@@ -40,6 +40,14 @@ The main purpose of the frontend is to offer a seamless, user-friendly experienc
 
 The backend is the core of the AI-PORTAL, built using a range of advanced technologies to provide scalable, reliable, and efficient services. It handles all the data management, processing of AI models, and communication between the user interface (Frontend) and the underlying services.
 
+### Screenshots:
+
+<p align="center">
+  <img src="https://i.ibb.co/nbp0PwW/sss.png" alt="Screenshot 1" width="400" height="400"/>
+ 
+
+</p>
+
 ### Key Components:
 
 - **API Layer**: Acts as the bridge between the frontend and backend. It handles requests from the frontend and routes them to the appropriate service, whether it's a login request, account creation, or a service like text-to-image conversion.
