@@ -12,7 +12,7 @@ The frontend of the AI-PORTAL is developed using **Flutter**, a cross-platform f
 ### Screenshots:
 
 <p align="center">
-  <img src="[https://link-to-screenshot1.png](https://github.com/om595902/AI-PORTAL/blob/4c68e91dc7ffcbeced0164a4c1650cadf992af96/Screenshot_20240727-123355.png?raw=true)" alt="Screenshot 1" width="300"/>
+  <img src="https://github.com/om595902/AI-PORTAL/raw/4c68e91dc7ffcbeced0164a4c1650cadf992af96/Screenshot_20240727-123355.png" alt="Screenshot 1" width="300"/>
   <img src="https://link-to-screenshot2.png" alt="Screenshot 2" width="300"/>
   <img src="https://link-to-screenshot3.png" alt="Screenshot 3" width="300"/>
 </p>
