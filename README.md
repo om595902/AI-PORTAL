@@ -13,11 +13,10 @@ The frontend of the AI-PORTAL is developed using **Flutter**, a cross-platform f
 
 <p align="center">
   <img src="https://github.com/om595902/AI-PORTAL/raw/4c68e91dc7ffcbeced0164a4c1650cadf992af96/Screenshot_20240727-123355.png" alt="Screenshot 1" width="200" height="350"/>
-  <img src="https://github.com/om595902/AI-PORTAL/raw/4c68e91dc7ffcbeced0164a4c1650cadf992af96/Screenshot_20240727-123355.png" alt="Screenshot 1" width="200" height="350"/>
-  <img src="https://github.com/om595902/AI-PORTAL/raw/4c68e91dc7ffcbeced0164a4c1650cadf992af96/Screenshot_20240727-123355.png" alt="Screenshot 1" width="200" height="350"/>
-  <img src="https://github.com/om595902/AI-PORTAL/raw/4c68e91dc7ffcbeced0164a4c1650cadf992af96/Screenshot_20240727-123355.png" alt="Screenshot 1" width="200" height="350"/>
-  <img src="https://github.com/om595902/AI-PORTAL/raw/4c68e91dc7ffcbeced0164a4c1650cadf992af96/Screenshot_20240727-123355.png" alt="Screenshot 1" width="200" height="350"/>
-  <img src="https://github.com/om595902/AI-PORTAL/raw/4c68e91dc7ffcbeced0164a4c1650cadf992af96/Screenshot_20240727-123355.png" alt="Screenshot 1" width="200" height="350"/>
+  <img src="https://github.com/om595902/AI-PORTAL/raw/4c68e91dc7ffcbeced0164a4c1650cadf992af96/Screenshot_20240727-123419.png" alt="Screenshot 1" width="200" height="350"/>
+  <img src="https://github.com/om595902/AI-PORTAL/raw/4c68e91dc7ffcbeced0164a4c1650cadf992af96/Screenshot_20240727-123456.png" alt="Screenshot 1" width="200" height="350"/>
+  <img src="https://github.com/om595902/AI-PORTAL/raw/4c68e91dc7ffcbeced0164a4c1650cadf992af96/Screenshot_20240727-123521.png" alt="Screenshot 1" width="200" height="350"/>
+  <img src="https://github.com/om595902/AI-PORTAL/raw/4c68e91dc7ffcbeced0164a4c1650cadf992af96/Screenshot_20240727-123541.png" alt="Screenshot 1" width="200" height="350"/>
 
 </p>
 
