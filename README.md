@@ -9,6 +9,11 @@ The **AI-PORTAL** project is a cloud-based platform that integrates modern techn
 
 The frontend of the AI-PORTAL is developed using **Flutter**, a cross-platform framework that allows the creation of mobile applications for both **Android** and **iOS** using a single codebase. The main purpose of the frontend is to provide an intuitive user interface where users can access various AI services offered by the platform, including text-to-image conversion and text-to-speech.
 
+### Screenshots:
+
+![Screenshot 1](Screenshot_20240727-123355.png) ![Screenshot 2](Screenshot_20240727-123355.png) ![Screenshot 3](Screenshot_20240727-123355.png)
+
+
 ### Components:
 - **Main.dart**: This is the entry point of the Flutter app. It sets up the application's routing and determines which page to display when the app starts, such as the login page or the service selection page.
 
